@@ -1,0 +1,19 @@
+            .-/+oossssoo+/-.               davidk@kohut
+        `:+ssssssssssssssssss+:`           ------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.10 x86_64
+    .ossssssssssssssssssdMMMNysssso.       Host: Vivobook_ASUSLaptop X7400PC_N7400PC 1.0
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.19.0-38-generic
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 22 hours, 48 mins
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2584 (dpkg), 1 (pkg), 95 (flatpak), 28 (snap)
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: fish 3.5.1
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 43.1
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru-dark [GTK2/3]
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru-dark [GTK2/3]
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: BlackBox
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: 11th Gen Intel i5-11300H (8) @ 4.400GHz
+    .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 3050 Mobile
+      -+sssssssssssssssssyyyssss+-         GPU: Intel TigerLake-LP GT2 [Iris Xe Graphics]
+        `:+ssssssssssssssssss+:`           Memory: 9183MiB / 15680MiB
